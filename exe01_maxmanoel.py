@@ -10,4 +10,4 @@ while (soma) < 50:
 soma2 = num1+num2+numero
 print("MAX MANOEL")
 if soma2 >= 50:
-            print('O total é {}'.format(soma2))
+            print('O total é {}'.format(soma2))     
